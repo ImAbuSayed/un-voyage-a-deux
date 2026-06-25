@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-voyage-a-deux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Un Voyage À Deux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-voyage-a-deux/) |
+| **Get License** | [Get License For Un Voyage À Deux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-voyage-a-deux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> On roule toute la nuit, le vent sur ta peau
+> Ton regard me brûle, c'est bien plus que des mots
+> Laisse-toi faire, baby, c'est notre évasion
+> Un voyage à deux, ma douce obsession
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
