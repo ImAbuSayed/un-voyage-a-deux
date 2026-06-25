@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-voyage-a-deux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Un Voyage À Deux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-voyage-a-deux/) |
+| **Get License** | [Commercial Licensing for Un Voyage À Deux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-voyage-a-deux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a6a22566a7dd2a41ca6fc117f0eb3f58f2e17fc1424d9b851f6312a457c3bb34` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

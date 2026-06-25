@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un Voyage À Deux
+
+This log tracks the cryptographic history and versioning for the song **Un Voyage À Deux** (un-voyage-a-deux).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T03:56:47.982320 | `v1` | `a6a22566a7dd2a41ca6fc117f0eb3f58f2e17fc1424d9b851f6312a457c3bb34` | `be9c4033902b1973f0aef757eac24ec6836d70675266d0039a5336d82339097c` | `2026-06-26_un-voyage-a-deux-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
